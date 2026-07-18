@@ -1,0 +1,34 @@
+{
+  "P001": {
+    "name": "Rahul Sharma",
+    "city": "Delhi",
+    "age": 29,
+    "gender": "male",
+    "height": 1.75,
+    "weight": 70.0
+  },
+  "P002": {
+    "name": "Priya Verma",
+    "city": "Mumbai",
+    "age": 34,
+    "gender": "female",
+    "height": 1.65,
+    "weight": 60.0
+  },
+  "P003": {
+    "name": "Amit Kumar",
+    "city": "Bangalore",
+    "age": 41,
+    "gender": "male",
+    "height": 1.80,
+    "weight": 80.0
+  },
+  "P006": {
+    "name": "Addie",
+    "city": "Delhi",
+    "age": 20,
+    "gender": "male",
+    "height": 1.0,
+    "weight": 1.0
+  }
+}
